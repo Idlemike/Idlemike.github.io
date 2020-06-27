@@ -21,7 +21,7 @@ html {
 }
 
 .header {
-    max-width: 600px;
+  max-width: 600px;
     height: 80px;
     margin: auto;
     display: flex;
