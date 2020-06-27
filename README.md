@@ -1,11 +1,11 @@
-# This site was built using [GitHub Pages](https://idlemike.github.io/Idlemike.github.io/)
+# This site was built using [GitHub Pages](https://idlemike.github.io/form/)
 ## **Version 0.0.2**
 ## **about project**
 Это учебный проект 10 спринта Яндекс-Практикума на темы "Регулярные выражения" и "GIT"
 ## **Используемые технологии**
 JS, CSS, HTML, WebPack, GIT
 ## **Инструкция как развернуть проект**
-Чтобы запустить проект - нажмите ссылку[GitHub Pages](https://idlemike.github.io/Idlemike.github.io/)
+Чтобы запустить проект - нажмите ссылку[GitHub Pages](https://idlemike.github.io/form/)
 
 ### *Правила ввода в поля*
 
