@@ -1,6 +1,6 @@
 # This site was built using GitHub Pages <https://idlemike.github.io/form/>
 ***
-## **Version 0.0.2**
+## **Version 0.0.5**
 ***
 ## **about project**
 Это учебный проект 10 спринта Яндекс-Практикума на темы "Регулярные выражения" и "GIT"
